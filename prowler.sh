@@ -13,8 +13,5 @@ echo 'alias python="/usr/local/bin/python3.9"' >> /home/$HOME_dir/.bashrc
 echo 'alias pip="/usr/local/bin/pip3.9"' >> /home/$HOME_dir/.bashrc
 source /home/$HOME_dir/.bashrc
 
-#python -V
-#pip -V
-
 #Prowler3 version install
 pip install prowler
